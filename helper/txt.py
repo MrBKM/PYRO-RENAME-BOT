@@ -36,11 +36,11 @@ class mr(object):
     ABOUT_TXT = """
 ╭───────────⍟
 ├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-├👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂: Tech World
+├👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂: Tech Masterz 
 ├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: Pyrogram
 ├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: Python3
 ├💾 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: MongoDB
-├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁: Vps
+├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁: VPS
 ├📊 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚄𝚂: v3.6.8 [ 𝙼𝙰𝙹𝙾𝚁 ]              
 ╰───────────────⍟"""
 
@@ -62,4 +62,5 @@ Example:- /set_caption 📕 File Name: {filename}
 ⏰ Duration: {duration}
 
 ✍️ <b><u>HOW TO RENAME A FILE ❓</u></b>
+
 •> send me any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this."""
